@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[<img src="https://api.speedtyper.dev/users/KasonBraley/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/KasonBraley) 
+[<img src="https://api.speedtyper.dev/users/KasonBraley/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/KasonBraley) 
+[<img src="https://api.speedtyper.dev/users/KasonBraley/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/KasonBraley)
+
 <!--
 **KasonBraley/KasonBraley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
