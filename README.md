@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m currently learning full stack web development at Code Fellows, focused primarily on the MERN stack.
+I’m currently learning full stack web development at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/), focused primarily on the MERN stack.
 
 <!-- [<img src="https://api.speedtyper.dev/users/KasonBraley/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/KasonBraley) 
 [<img src="https://api.speedtyper.dev/users/KasonBraley/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/KasonBraley) 
