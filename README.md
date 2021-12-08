@@ -1,6 +1,12 @@
 ### Hi there 👋
 I’m currently learning full stack web development at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/), focused primarily on the MERN stack.
 
+- ### 🛠️ **Tools I Use**
+
+    - **OS** : Linux, Distribution: Manjaro
+    - **Editor** : Neovim
+    - **Shell** : Zsh
+
 <br/>
 <br/>
 
