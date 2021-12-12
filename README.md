@@ -19,6 +19,7 @@ I’m currently learning full stack web development at [Code Fellows](https://ww
 
 ![javascript](https://img.shields.io/badge/javascript-f7df1e?&style=for-the-badge&logo=javascript&logoColor=black)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![html](https://img.shields.io/badge/html-FF0000?&style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/css-007acc?&style=for-the-badge&logo=css3&logoColor=white)
 ![powershell](https://img.shields.io/badge/powershell-800080?&style=for-the-badge&logo=powershell&logoColor=white)
@@ -30,11 +31,10 @@ I’m currently learning full stack web development at [Code Fellows](https://ww
 
 **I'm currently learning:**
   
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-![lua](https://img.shields.io/badge/lua-2c2d72?&style=for-the-badge&logo=lua&logoColor=white)
 
 </td>
 </tr>
