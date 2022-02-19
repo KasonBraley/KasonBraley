@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there, I'm Kason</h1>
 
-I enjoy building things using mostly NodeJS and React, currently I am learning Go and TypeScript. I recently finished a full-stack JavaScript bootcamp at [Code Fellows](https://www.codefellows.org/courses/code-401/advanced-software-development-in-full-stack-javascript/).
+<p align="center"> I enjoy building things using mostly Go and React. </p>
 
 
 <p align="center">
@@ -15,6 +15,6 @@ I enjoy building things using mostly NodeJS and React, currently I am learning G
 
 - ### 🛠️ **Tools I Use**
 
-    - **OS** : Linux, Distribution: Manjaro
+    - **OS** : Linux
     - **Editor** : Neovim
     - **Shell** : Zsh
